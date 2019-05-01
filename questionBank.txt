@@ -1,0 +1,54 @@
+What is the correct longhand spelling of ALU?
+What is the correct longhand spelling of CPU?
+What is the correct longhand spelling of RAM?
+What is the correct longhand spelling of ROM?
+What is the correct longhand spelling of DVD?
+What is the correct longhand spelling of CD-ROM?
+What is the correct longhand spelling of CD-RW?
+What is the correct longhand spelling of GPU?
+What is the correct longhand spelling of USB?
+What is the correct longhand spelling of SSD?
+What is the correct longhand spelling of HDD?
+What is the correct longhand spelling of BIOS?
+What is the correct longhand spelling of PSU?
+What is the correct name for this piece of computer hardware?
+What is the correct name for this piece of computer hardware?
+What is the correct name for this piece of computer hardware?
+What is the correct name for this piece of computer hardware?
+What is the correct name for this piece of computer hardware?
+What is the correct name for this piece of computer hardware?
+What is the correct name for this piece of computer hardware?
+What is the correct name for this piece of computer hardware?
+What is the correct name for this piece of computer hardware?
+What is the correct name for this piece of computer hardware?
+What is the correct name for this piece of computer hardware?
+What is the correct name for this piece of computer hardware?
+What is the correct name for this piece of computer hardware?
+What is the correct name for this piece of computer hardware?
+What is the correct name for this piece of computer hardware?
+What is the correct name for this piece of computer hardware?
+What is the correct name for this piece of computer hardware?
+A digital circuit used to perform arithmetic and logic operations.
+A display screen used to provide visual output from a computer.
+A type of volatile memory used in computers and other electronic devices.
+A programmable logic chip specialized for display functions.
+A/An ____________ is a socket on the motherboard that expansion cards plug into.
+A chip made of millions of microscopic transistors, referred to as the 'brains' of the computer.
+A/An ____________ uses laser light or electromagnetic waves to read or write data to CDs, DVDs, or Blu-ray discs.
+A type of non-volatile memory used in computers and other electronic devices.
+Non-volatile firmware used to perform hardware initialization during the booting process, and to provide runtime services for operating systems and programs.
+Converts mains AC to low-voltage regulated DC power for the internal components of a computer.
+Holds together many of the crucial components of a computer, including the central processing unit (CPU), memory and connectors for input and output devices.
+A cursor control device used in computer games and assistive technology.
+The ____________ is located on the motherboard and serves as a four-way intersection connecting the CPU, memory, video card (AGP) bus, and its partner, the south bridge chip.
+The ____________ is located on the core logic chipset architecture on a PC motherboard and typically implements slower capabilities of the motherboard than its counterpart.
+
+
+
+
+
+
+
+
+
+
